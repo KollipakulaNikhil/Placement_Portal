@@ -2,7 +2,7 @@
   <img src="../src/assets/lpu-logo.png" alt="LPU Logo" width="120" />
 </p>
 
-<h1 align="center">🎓 PlaceAI — System Workflow & Architecture</h1>
+<h1 align="center">🎓 CareerAI — System Workflow & Architecture</h1>
 
 <p align="center">
   <b>Comprehensive Placement Intelligence Platform</b><br/>
@@ -36,11 +36,11 @@
 
 ## 🔷 System Overview
 
-PlaceAI is an end-to-end AI-powered placement management system designed for Lovely Professional University. It digitizes the entire placement lifecycle — from student profile building and job discovery to recruiter management and institutional analytics.
+CareerAI is an end-to-end AI-powered placement management system designed for Lovely Professional University. It digitizes the entire placement lifecycle — from student profile building and job discovery to recruiter management and institutional analytics.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                          PlaceAI — System Overview                         │
+│                          CareerAI — System Overview                         │
 │                                                                             │
 │   ┌───────────┐   ┌───────────┐   ┌───────────┐   ┌───────────┐           │
 │   │  Student   │   │   Staff   │   │ Recruiter │   │   Admin   │           │

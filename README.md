@@ -456,7 +456,6 @@ const greeting = (() => {
 ---
 
 ![Built with Hindsight](https://img.shields.io/badge/Built_with-Hindsight-brightgreen?style=for-the-badge&logo=brain)
-![Lovable Cloud](https://img.shields.io/badge/Lovable_Cloud-Powered-orange?style=for-the-badge)
 ![CascadeFlow](https://img.shields.io/badge/CascadeFlow-Active-blue?style=for-the-badge)
 
 *"The interview platform that doesn't forget you."*
